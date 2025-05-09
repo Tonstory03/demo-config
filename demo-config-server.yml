@@ -1,5 +1,5 @@
 my:
-  message: Hello from local file system!
+  message: Hello from local file system! change ja
 
 server:
   port: 8542
